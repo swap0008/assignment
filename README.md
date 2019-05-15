@@ -1,4 +1,7 @@
 ## To Start The Project
 
-> npm init
-> npm start
+```
+>cd assignment
+>npm i
+>npm start
+```
